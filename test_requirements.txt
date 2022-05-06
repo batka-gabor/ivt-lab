@@ -1,0 +1,6 @@
+Tests:
+    1. Első hívás: kiinduló helyzetből lövés, a fő raktár sül el egyszer
+    2. Második hívás: egyszer már volt hívva, a második süul el egyszer
+    3. Mindkettő üres: egyik sem sül el
+    4. Az első már elsült, de a második üres: az első sül el egyszer
+    5. A második már elsült, de az első üres: a második sül el egyszer 
